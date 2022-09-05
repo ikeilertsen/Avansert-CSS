@@ -1,0 +1,21 @@
+hader nav h3{
+  float: left;
+}
+
+nav{
+  overflow: auto;
+  background-color: #8C659E
+}
+
+header nav ul{
+  float: right;
+}
+
+header nav ul li{
+  display: inline-block;
+}
+
+header nav ul li a{
+  color: black;
+  text-decoration: none;
+}
